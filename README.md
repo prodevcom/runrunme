@@ -1,6 +1,10 @@
 # RunRunME
-As the RunRunIt app is not fot commom users (only for companies)
+Como o RunRunIt só está disponível em planos empresariais
+com mais de 10 usuários resolvi tentar criar algo parecido
+para uso própio.
+O Mesmo será desenvolvido utilizando:
+- MongoDb para dados de massa
+- MySql para dados que necessitam de maior integridade
+- NodeJs para o servidor de api
+- VueJs + Materialize para o frontend.
 
-I decided to create my own 'RunRunIt". 
-
-It will be called RunRunME
