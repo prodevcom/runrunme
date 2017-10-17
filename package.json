@@ -1,0 +1,26 @@
+{
+  "name": "juntospelascriancas",
+  "version": "1.0.0",
+  "description": "Backend NodeJS para a aplicação Juntos Pelas Crianças.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "juntos",
+    "pelas",
+    "criancas",
+    "juntospelascriancas",
+    "visaomundial"
+  ],
+  "author": "Maquina Do Bem",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "express": "^4.16.1",
+    "mysql2": "^1.4.2",
+    "sequelize": "^4.13.3",
+    "vhost": "^3.0.2"
+  }
+}
